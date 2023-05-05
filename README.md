@@ -19,6 +19,7 @@ In addition, this project will include:
 
 ## Wireframes
 
+https://wireframe.cc/r8Vldn
 # Implementation 1:
 This app will consist of a single screen with the chart, a nav bar, and links to the Github, my LinkedIn, and the About modal. The About modal will contain a brief description of the project and a link to the Fred API.  The chart will be a line graph of the EUR/USD currency pair.  There will be a dropdown menu to select the timeframe.  There will be a dropdown menu to select the type of chart (line, bar, candlestick).  There will be a dropdown menu to select the macroeconomic data to overlay on the currency pair. There will be a dropdown menu to select the type of chart (line, bar) for the macroeconomic data.  There will be a dropdown menu to select the type of indicator to overlay on the currency pair. There will be a dropdown menu to select the type of drawing tool to use on the chart.  There will be a dropdown menu to select the type of drawing tool to use on the chart.  There will be a dropdown menu to select the type of drawing tool to use on the chart.
 
